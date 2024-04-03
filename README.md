@@ -1,6 +1,6 @@
 # datorium_test_1
 
-#welcome to my repo
+# Welcome to my repo
 
 ## My skills
  - Java
